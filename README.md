@@ -1,0 +1,1 @@
+Project that demonstrate an error using powertools-java and lombok together
